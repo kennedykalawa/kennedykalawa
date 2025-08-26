@@ -7,14 +7,15 @@
   *Exploring secure systems, network defense, ethical hacking, and safeguarding data-driven applications.*
   **ROBOTICS**
   -*Embeded systems and robot programming and the fusion of both software and hardware*
-- ##🌱 I’m currently learning:
+- ##**🌱 I’m currently learning:**
   *I'm currently exploring and diving into the world of information technology and software development,learning concepts like Machine Learning,Cybersecurity basics,Robotics          programming and Software Engineering principles*
   *currently pursuing technologies like Python,C/C++,SQL,Git,Linux and Networking principles*
-- ##💞️ I’m looking to collaborate on: 
+- ##**💞️ I’m looking to collaborate on:** 
   *on open source projects in my area of interest like Data science, AI, Cybersecurity, IT Systems ,Robotics*
   *Tech Innovations-exploring and creating new technologies and tech-focused projects to solve real world problems*
-- ##📫 How to reach me:**Linkedin:**[Kennedy Kalawa]
-                     **email:**[kalawamkennedy@gmail.com]
+- ##**📫 How to reach me:**
+-            **Linkedin:**[Kennedy Kalawa]
+             **email:**[kalawamkennedy@gmail.com]
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
