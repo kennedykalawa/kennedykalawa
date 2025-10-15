@@ -13,7 +13,7 @@
 - **💞️ I’m looking to collaborate on:** 
   -*on open source projects in my area of interest like Data science, AI, Cybersecurity, IT Systems ,Robotics*
   -*Tech Innovations-exploring and creating new technologies and tech-focused projects to solve real world problems*
-- 📫 How to reach me:**Linkedin:**[Kennedy Kalawa]
+- 📫 How to reach me:**Linkedin:**[https://www.linkedin.com/in/kennedy-mwiti-44a34b340]
   **email:**[kalawamkennedy@gmail.com]
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
