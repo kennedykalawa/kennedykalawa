@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennedykalawa
-      # an aspiring Tech innovator, AI and Data Science Enthusiast, Robotics leaner
+      # an aspiring Software Developer, AI and Data Science Enthusiast, Robotics leaner
 ## 👀 I’m interested in ...
 - **AI(artificial intelligence) and DATA SCIENCE**
 - -*expoloring machine learning,deep learning,natural language processing,analyzing data ,using tools and techniques for predictive modeling and data visualization.*
