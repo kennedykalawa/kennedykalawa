@@ -43,7 +43,7 @@
 - 
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, C, C++, JavaScript
-- **Databases:** SQL
+- **Databases:** SQL,NoSQL
 - **Systems:** Linux (Arch-based workflow)
 - **Dev Tools:** Git & GitHub, VSCode
 - **Networking:** Core networking principles
@@ -53,8 +53,8 @@
 ## 💞️ Open to Collaboration On
 - Open-source projects in:
   - Full-stack/backend development
-  - AI & Data Science
   - Cybersecurity
+  - AI & Data Science
   - Robotics & embedded systems
 - Tech innovation projects solving **real-world problems**
 - Learning-focused collaborations (**build → break → secure**)
