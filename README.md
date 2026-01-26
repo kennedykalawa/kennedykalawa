@@ -65,7 +65,7 @@
 - **LinkedIn:** [Kennedy Mwiti](https://www.linkedin.com/in/kennedy-mwiti-44a34b340)
 - **GitHub:** [@kennedykalawa](https://github.com/kennedykalawa)
 - **Email:** kalawamkennedy@gmail.com
-<!-- **Portfolio:** [https://yourwebsite.com](https://yourwebsite.com) -->
+- **Portfolio:**  (https://grand-swan-f709f5.netlify.app/)
 
 ---
 
