@@ -44,7 +44,7 @@
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, C, C++, JavaScript
 - **Databases:** SQL,NoSQL
-- **Systems:** Linux (Opensuse TW - optimized for security work and development)
+- **Systems:** Linux (Arch Linux - optimized for security work and development)
 - **Dev Tools:** Git & GitHub, VSCode
 - **Networking:** Core networking principles
 
