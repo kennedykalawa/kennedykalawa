@@ -1,6 +1,35 @@
-# 💫 About Me:
-# 👋 Hi, I’m @kennedykalawa (Ktec)<br><br>🚀 **Growth-focused developer building a strong foundation in full-stack and backend development, secure systems, and data-driven technologies, with a long-term vision in AI, Data Science, and Robotics.**<br><br>✨ Currently exploring full-stack development, backend security, AI & Data Science, and robotics projects.<br><br>---<br><br>## 👀 What I’m Interested In<br><br>### 🔐 Cybersecurity<br>- Secure backend systems & APIs<br>- Networking and system security fundamentals<br>- Ethical hacking & defensive security practices<br>- Hands-on labs using platforms like **TryHackMe** and **LabEx**<br><br>### 🧠 Artificial Intelligence & Data Science<br>- Machine Learning & Deep Learning fundamentals<br>- Natural Language Processing (NLP)<br>- Data analysis, predictive modeling & visualization<br>- Applying AI responsibly to real-world problems<br><br>### 🦾 Robotics & Embedded Systems<br>- Embedded programming with **C/C++**<br>- Robot programming and control systems<br>- Integrating **software + hardware** for intelligent automation<br><br>---<br><br>## 🌱 Currently Learning & Building<br><br>### 💻 Full-Stack & Backend Development<br>- **Backend:** Python (Flask → Django), Node.js, Express.js<br>- **Frontend:** JavaScript, HTML/CSS<br>- REST APIs, authentication, and databases<br>- Writing clean, maintainable, and secure code<br>- Building full-stack applications end-to-end<br><br>### 🔒 Security Practice<br>- Backend security best practices<br>- Linux system hardening basics<br>- Practical cybersecurity labs and challenges<br>- <br>### 🛠️ Tools & Technologies<br>- **Languages:** Python, C, C++, JavaScript<br>- **Databases:** SQL,NoSQL<br>- **Systems:** Linux (Arch Linux - optimized for security work and development)<br>- **Dev Tools:** Git & GitHub, VSCode<br>- **Networking:** Core networking principles<br><br>---<br><br>## 💞️ Open to Collaboration On<br>- Open-source projects in:<br>  - Full-stack/backend development<br>  - Cybersecurity<br>  - AI & Data Science<br>  - Robotics & embedded systems<br>- Tech innovation projects solving **real-world problems**<br>- Learning-focused collaborations (**build → break → secure**)<br><br>---<br><br>## 📫 How to Reach Me<br>- **LinkedIn:** [Kennedy Mwiti](https://www.linkedin.com/in/kennedy-mwiti-44a34b340)<br>- **GitHub:** [@kennedykalawa](https://github.com/kennedykalawa)<br>- **Email:** kalawamkennedy@gmail.com<br>- **Portfolio:**  (https://grand-swan-f709f5.netlify.app/)<br><br>---<br><br>## 😄 Pronouns<br>- He / Him<br><br>---<br><br>## ⚡ Fun Fact<br>- I enjoy working close to the system — from Linux internals and networking to backend security and intelligent automation.<br><br><br><!---<br>kennedykalawa/kennedykalawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>--->
+#💫 About Me
 
+🚀 Hi, I’m Kennedy (Ktec) — a growth-focused developer passionate about building scalable systems, secure backend architectures, and intelligent software solutions.
+
+I specialize in full-stack development and backend engineering, while steadily growing into AI, Data Science, and Robotics. I enjoy working close to the system — from Linux environments and APIs to security, automation, and data-driven applications.
+
+##🔭 What I’m Focused On
+🧠 Building strong foundations in backend & system design
+🔐 Learning cybersecurity principles & secure API development
+📊 Exploring AI, machine learning & data science applications
+🦾 Experimenting with embedded systems & robotics
+🌐 Developing real-world full-stack applications
+##🛠 Current Stack
+Backend: Python (Django, Flask), Node.js, FastAPI
+Frontend: JavaScript, React, HTML/CSS
+Databases: PostgreSQL, MySQL, MongoDB
+Systems: Linux (Arch), Git, Docker
+Interests: APIs, system security, automation, AI pipelines
+##🎯 What Drives Me
+
+I’m focused on becoming a developer who doesn’t just build apps — but builds secure, intelligent, and scalable systems that solve real-world problems.
+
+I believe in:
+
+build → break → understand → secure → improve
+
+##🤝 Open To
+Open-source collaboration
+Backend / full-stack projects
+AI & data-driven systems
+Cybersecurity learning projects
+Robotics & embedded experiments
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kenkalawa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kdev0104) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ken_kalawa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalawamkennedy@gmail.com) 
