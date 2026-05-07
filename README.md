@@ -1,36 +1,45 @@
-#💫 About Me
+## 💫 About Me
 
-🚀 Hi, I’m Kennedy (Ktec) — a growth-focused developer passionate about building scalable systems, secure backend architectures, and intelligent software solutions.
+Hi, I’m Kennedy (Ktec) — a growth-focused developer building strong foundations in full-stack development, backend engineering, and secure systems, with a long-term direction in AI, Data Science, and Robotics.
 
-I specialize in full-stack development and backend engineering, while steadily growing into AI, Data Science, and Robotics. I enjoy working close to the system — from Linux environments and APIs to security, automation, and data-driven applications.
+I enjoy understanding how systems work under the hood — from Linux environments and APIs to backend architecture, security, and automation.
 
-##🔭 What I’m Focused On
-🧠 Building strong foundations in backend & system design
-🔐 Learning cybersecurity principles & secure API development
-📊 Exploring AI, machine learning & data science applications
-🦾 Experimenting with embedded systems & robotics
-🌐 Developing real-world full-stack applications
-##🛠 Current Stack
-Backend: Python (Django, Flask), Node.js, FastAPI
-Frontend: JavaScript, React, HTML/CSS
-Databases: PostgreSQL, MySQL, MongoDB
-Systems: Linux (Arch), Git, Docker
-Interests: APIs, system security, automation, AI pipelines
-##🎯 What Drives Me
+---
 
-I’m focused on becoming a developer who doesn’t just build apps — but builds secure, intelligent, and scalable systems that solve real-world problems.
+## 🔭 What I’m Focused On
 
-I believe in:
+- Full-stack & backend development  
+- Secure system and API design  
+- Cybersecurity fundamentals and Linux systems  
+- AI, machine learning, and data-driven applications  
+- Robotics and embedded systems exploration  
 
-build → break → understand → secure → improve
+---
 
-##🤝 Open To
-Open-source collaboration
-Backend / full-stack projects
-AI & data-driven systems
-Cybersecurity learning projects
-Robotics & embedded experiments
+## 🛠 Tech Stack
 
+Python • JavaScript • C/C++  
+Django • Flask • FastAPI • Node.js • Express  
+React • HTML • CSS  
+PostgreSQL • MySQL • MongoDB  
+Linux (Arch) • Git • Docker  
+
+---
+
+## 🎯 Vision
+
+To become a developer who builds **secure, scalable, and intelligent systems** that solve real-world problems and connect software with hardware and data.
+
+---
+
+## 🤝 Open To
+
+- Open-source collaboration  
+- Backend / full-stack engineering projects  
+- AI and data-driven systems  
+- Cybersecurity learning and research  
+- Robotics and embedded systems projects
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kenkalawa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/kdev0104) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ken_kalawa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalawamkennedy@gmail.com) 
 
