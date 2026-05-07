@@ -56,11 +56,17 @@ I enjoy understanding how systems work under the hood — from Linux environment
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+### Activity & Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kennedykalawa&theme=blue-green&hide_border=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/kennedykalawa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykalawa&theme=blue-green&hide_border=false&layout=compact&langs_count=10)
+### Commit Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kennedykalawa&theme=tokyonight)](https://github.com/kennedykalawa)
+
+### Languages Used
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kennedykalawa&theme=tokyonight&layout=compact)](https://github.com/kennedykalawa)
 
 </div>
 
@@ -86,9 +92,14 @@ I enjoy understanding how systems work under the hood — from Linux environment
 
 ---
 
-## ✍️ Random Developer Quote
+## 💡 My Philosophy
 
-> *"Code is read much more often than it is written."* — Guido van Rossum
+I believe in writing **clean, maintainable code** that's easy to understand and scales well. I'm committed to:
+
+- **Security First** — Building systems with security best practices in mind
+- **Performance Matters** — Optimizing code for speed and efficiency
+- **Open Source** — Contributing back to the community
+- **Continuous Learning** — Always exploring new technologies and methodologies
 
 ---
 
@@ -106,8 +117,8 @@ If you find value in my work, consider supporting me:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kennedykalawa&color=0077be)
+![Profile Views](https://komarev.com/ghpvc/?username=kennedykalawa&style=flat-square&color=0077be)
 
-*Last Updated: May 2026*
+**Made with ❤️ by Kennedy | Last Updated May 2026**
 
 </div>
