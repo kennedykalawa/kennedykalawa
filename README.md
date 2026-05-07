@@ -1,94 +1,111 @@
-# 👋 Hi, I’m Kennedy (Ktec)
+## 💫 About Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-🚀 **Growth-focused developer building strong foundations in full-stack development, backend engineering, and secure systems, with a long-term direction in AI, Data Science, and Robotics.**
+Hi, I'm Kennedy (Ktec) — a growth-focused developer building strong foundations in full-stack development, backend engineering, and secure systems. I'm passionate about AI, data science, and robotics.
 
 I enjoy understanding how systems work under the hood — from Linux environments and APIs to backend architecture, security, and automation.
 
 ---
 
-## 🔭 What I’m Focused On
+## 🔭 What I'm Focused On
 
-- **Full-stack & Backend Development:** Building scalable and secure web applications.
-- **Cybersecurity:** Practical labs (TryHackMe, LabEx) and defensive security practices.
-- **AI & Data Science:** Exploring ML/DL fundamentals and data-driven solutions.
-- **Robotics & Embedded Systems:** C/C++ programming for hardware-software integration.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Core
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-### 🌐 Web & Backend
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Tools
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- Full-stack & backend development  
+- Secure system and API design  
+- Cybersecurity fundamentals and Linux systems  
+- AI, machine learning, and data-driven applications  
+- Robotics and embedded systems exploration  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Vision
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="Kennedy's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=kennedykalawa&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kennedykalawa&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+To become a developer who builds **secure, scalable, and intelligent systems** that solve real-world problems and connect software with hardware and data.
 
 ---
 
-## 📫 Let's Connect!
+## 💻 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kennedy-mwiti-44a34b340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kennedy Mwiti" height="30" width="40" /></a>
-<a href="https://instagram.com/_kenkalawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kenkalawa" height="30" width="40" /></a>
-<a href="https://reddit.com/user/kdev0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="kdev0104" height="30" width="40" /></a>
-<a href="https://tiktok.com/@ken_kalawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="@ken_kalawa" height="30" width="40" /></a>
-<a href="mailto:kalawamkennedy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" /></a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-🔗 **Portfolio:** [grand-swan-f709f5.netlify.app](https://grand-swan-f709f5.netlify.app/)
+### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-## ⚡ Fun Fact
-- I enjoy working close to the system — from Linux internals and networking to backend security and intelligent automation.
+## 🤝 Open To
+
+- Open-source collaboration  
+- Backend / full-stack engineering projects  
+- AI and data-driven systems  
+- Cybersecurity learning and research  
+- Robotics and embedded systems projects
 
 ---
 
-## 💰 Support My Journey
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kalawamwiti@gmail.com)
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kennedykalawa&icon=0&color=3" alt="Visitors" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_kenkalawa) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/kdev0104) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=TikTok&logoColor=white)](https://tiktok.com/@ken_kalawa) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kalawamkennedy@gmail.com)
+
+---
+
+## 📊 GitHub Analytics
+
+### Yearly Contributions & Commit History
+![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+### Daily Commit Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=kennedykalawa&theme=blue-green&hide_border=false&stroke=00dd00)
+
+### Most Used Languages & Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykalawa&theme=blue-green&hide_border=false&layout=compact&langs_count=10)
+
+### Top Contributed Repositories
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=kennedykalawa&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 💰 Support My Work
+
+If you find my work helpful, consider supporting me:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/kalawamwiti@gmail.com)
+
+---
+
+[![Visitors](https://komarev.com/ghpvc/?username=kennedykalawa&icon=0&color=3)](https://visitcount.itsvg.in)
