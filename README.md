@@ -58,7 +58,7 @@ I enjoy understanding how systems work under the hood — from Linux environment
 
 ### Activity & Contributions
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/kennedykalawa)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/kennedykalawa)
 
 ### Commit Streak
 
@@ -66,7 +66,7 @@ I enjoy understanding how systems work under the hood — from Linux environment
 
 ### Languages Used
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kennedykalawa&theme=tokyonight&layout=compact)](https://github.com/kennedykalawa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykalawa&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/kennedykalawa)
 
 </div>
 
