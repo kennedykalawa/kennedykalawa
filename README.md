@@ -66,7 +66,8 @@ I enjoy understanding how systems work under the hood — from Linux environment
 
 ### Languages Used
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedykalawa&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/kennedykalawa)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 </div>
 
