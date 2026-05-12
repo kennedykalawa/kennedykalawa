@@ -57,7 +57,7 @@ I enjoy understanding how systems work under the hood — from Linux environment
 <div align="center">
 
 ### Activity & Contributions
-![Kennedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Kennedy's GitHub Stats](https://github-readme-stats.shion.dev/api?username=kennedykalawa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ### Commit Streak
