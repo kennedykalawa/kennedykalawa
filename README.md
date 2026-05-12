@@ -120,6 +120,6 @@ If you find value in my work, consider supporting me:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kennedykalawa&style=flat-square&color=0077be)
 
-**Made with ❤️ by Kennedy | Last Updated May 2026**
+**Made by Kennedy | Last Updated May 2026**
 
 </div>
